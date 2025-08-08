@@ -1,5 +1,10 @@
 # 🛠 MApron Booth & Localized Prompt Wizard
 
+This project helps Store Associates create effective prompts for use with Magic Apron, and then convert the AI’s output into a Route Map format.
+
+
+![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
+
 ## 1. Store Setting (per the Store Manager's direction)
 - **Key Settings:**  
   1. Preferred target products--weekly update.  
