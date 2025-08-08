@@ -96,3 +96,23 @@ Store Associate:
 5. **Capture & Format Output**  
    - Store Associate or customer reviews the AI-generated solution.  
    - Output is formatted into a **Route Map** and optional **Route Coupon** for printing.
+
+
+
+## 👤 Simon Chen — User Onboarding (UO) Program Specialist  
+<img src="https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0" width="300" align="right">
+
+career focus: Customer Engagement SaaS | UO Strategy
+
+**Clients:** Pfizer, Roche, J&J, Eisai-Biogen  
+current: Store Associate, Poway Store 8949
+
+📞 (858) 733-1029  
+📧 presenter.simon@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hsienchen/)  
+
+
+
+### 📁 Past UO Works  
+- 🔗 [**DFC Website – Patient Recruitment**](./README-cases.md#dfc-website--patient-recruitment)  
+- 🔗 [**Lunchbag CME – Physician Engagement**](./README-cases.md#lunchbag-cme---physician-engagement)
