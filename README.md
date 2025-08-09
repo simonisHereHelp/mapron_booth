@@ -82,27 +82,26 @@ Store Associate:
 ---
 
 
-## 🧩 Wizard Workflow (operated by Store Associate)
+## 🧩 Associate’s Step-by-Step
 
-1. **Select Project Type**  
-   - Choose project scope: *Build New*, *Replacement*, or *Renovation*.  
-   - Select category: *Appliances*, *Windows & Doors*, *Flooring*, *Plumbing*, *Garden*, *Patio*, or *Other*.  
+1. **Pick from List**  
+   - Scope: [Build New], [Replacement], or [Renovation]*.  
+   - Category: *Appliances*, *Windows & Doors*, *Flooring*, *Plumbing*, *Garden*, *Patio*, or *Other*.  
 
-2. **Enter Measurements** (refer to **Pocket Guide**) 
-   - Provide dimensions, quantities, and any critical size constraints.  
-   - Optional: upload photos or plans for reference.  
+2. **Measure** *(refer to Pocket Guide)*  
+   - Enter dimensions, quantities, and critical size constraints.  
+   - Optional: attach photos or layout plans.  
 
-3. **Identify Legacy Builds**  
-   - Note any existing structures, materials, or installations to integrate, remove, or upgrade.  
-   - Highlight potential reuse of components.  
+3. **Additional Text Input**  
+   - Identify current structures, materials, or installations to keep, remove, or upgrade.  
+   - Note any items that can be reused.  
 
-4. **Generate Magic Apron Prompt**  
-   - Prompt Wizard combines user inputs with **Store Setting** data (products, weather, code compliance).  
+4. **Copy Prompt**    
+   - Copy the generated text into Magic Apron for results.  
 
-5. **Capture & Format Output**  
-   - Store Associate or customer reviews the AI-generated solution.  
-   - Output is formatted into a **Route Map** and optional **Route Coupon** for printing.
-
+5. **Review & Print**  
+   - Go over the AI-generated solution with the customer.  
+   - Print as a **Route Map** and, if available, a **Route Coupon**.
 
 
 ## 👤 Simon Chen — User Onboarding (UO) Program Specialist  
