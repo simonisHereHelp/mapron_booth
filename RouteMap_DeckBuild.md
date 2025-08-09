@@ -1,4 +1,4 @@
-# 🗺️ Route Map (Poway Home Deptor Store)
+# 🗺️ Route Map (Home Depot at Poway)
 project: Deck Build (12 ft × 16 ft)
 
 **Date:** 08/07/2025  

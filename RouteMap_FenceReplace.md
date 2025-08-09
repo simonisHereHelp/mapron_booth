@@ -1,10 +1,10 @@
-# 🗺️ Route Map (Poway Homde Depot Store) 
+# 🗺️ Route Map (Home Depot at Poway) 
 
 project: Fence Replacement (50 ft · 10 posts)
 
 **Date:** 08/07/2025  
 **location:** #8949, ZIP: 92064
-  
+
 **Cart plan:** **Lumber Cart** for entire route — accommodates posts, rails, concrete, and hardware in one trip.
 
 ---
