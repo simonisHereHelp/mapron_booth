@@ -90,7 +90,6 @@ Store Associate:
 
 2. **Measure** *(refer to Pocket Guide)*  
    - Enter dimensions, quantities, and critical size constraints.  
-   - Optional: attach photos or layout plans.  
 
 3. **Additional Text Input**  
    - Identify current structures, materials, or installations to keep, remove, or upgrade.  
