@@ -7,7 +7,7 @@ This project helps Store Associates create effective prompts for use with Magic 
 
 ## 1. Store Setting (per the Store Manager's direction)
 - **Key Settings:**  
-  1. Preferred target products--weekly update.  
+  1. Store weekly push  
   2. Local building codes  
   3. Local weather profile (e.g., wildfire warnings).  
   4. Up-engagement strategies
