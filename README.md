@@ -12,15 +12,16 @@ This project helps Store Associates create effective prompts for use with Magic 
   3. Local weather profile (e.g., wildfire warnings).  
   4. Up-engagement strategies
  
-example setting.json
+example **Store_Setting.json**
 ```
 {
   "store_id": "8949",
   "zip": "92064",
-  "1. preferred_products": [
+  "1. "store_weekly_push": [
     {"sku": "100123456", "name": "Pressure-Treated Wood Post 4x4x8"},
-    {"sku": "100234567", "name": "Quikrete Fast-Setting Concrete Mix (50 lb)"},
-    {"sku": "100334455", "name": "Galvanized Fence Brackets"}
+    {"sku": "100456789", "name": "RYOBI 18V ONE+ Cordless Drill/Driver Kit"},
+    {"sku": "100567890", "name": "Westinghouse 9500DF Dual Fuel Portable Generator"},
+    {"sku": "100678901", "name": "Toshiba 12000 BTU Portable Air Conditioner"}
   ],
   "2. local_weather": {
     "condition": "hot_dry, wildfire hazard",

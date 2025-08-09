@@ -1,8 +1,9 @@
-# 🗺️ Route Map — Deck Build (12 ft × 16 ft)
+# 🗺️ Route Map (Poway Home Deptor Store)
+project: Deck Build (12 ft × 16 ft)
 
 **Date:** 08/07/2025  
-**Store:** #8949  
-**ZIP:** 92064  
+**Location:** #8949 ZIP 92064  
+
 **Cart plan:** **Lumber Cart** for entire route — accommodates joists, decking boards, connectors, and hardware in one trip.
 
 ---
