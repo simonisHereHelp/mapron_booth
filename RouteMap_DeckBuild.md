@@ -1,8 +1,7 @@
-# 🗺️ Route Map (Home Depot at Poway)
-project: Deck Build (12 ft × 16 ft)
+# 🗺️ Route Map (Home Depot in Poway)
 
-**Date:** 08/07/2025  
-**Location:** #8949 ZIP 92064  
+**Project/Task:** Deck Build (12 ft × 16 ft)\
+**Date:** 08/07/2025  (store #8949 ZIP 92064)  
 
 **Cart plan:** **Lumber Cart** for entire route — accommodates joists, decking boards, connectors, and hardware in one trip.
 
