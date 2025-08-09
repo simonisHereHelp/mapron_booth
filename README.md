@@ -50,8 +50,8 @@ example **Store_Setting.json**
 ## 2. MApron Booth (In-Store, near D31 Cust Services)
 - **Purpose:** In-store station for demos and engagement.  
 - **Features:**  
-  - Touchscreen Computer with Keyboard, operated by Operator
-  - Wi-Fi Guest connection (no access to the HD net)
+  - Touchscreen Computer with Keyboard, operated by Associate
+  - Wi-Fi Guest connection, only!
   - Local printer (for printing Route Map)
 
 ```
@@ -63,12 +63,12 @@ Store Associate:
 
 
 ## 3. Prompt Wizard
-- **Purpose:** Operated by Associate, to generate optimized Magic Apron prompts and project guides.  
-- **Features:** 
-  - Chrome Extension powered by GenAI tools
-  - Integrates Store Setting data for local relevancy.  
-  - Guides the Associate through a structured project workflow.  
-  - Generate optimized text prompt for use with Magic Apron.
+- **Purpose:** Help Associates create optimized text prompts for Magic Apron.  
+- **Features:**  
+  - Chrome Extension with GenAI tools.  
+  - Uses Store Setting data for local relevance.  
+  - Step-by-step project workflow.  
+  - Generates prompts ready for Magic Apron.
   
 ## 4. Magic Apron Text to Route Map
   - Captures Magic Apron text output and formats for printing.
