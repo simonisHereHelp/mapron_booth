@@ -133,10 +133,4 @@ current: Store Associate, Poway Store 8949
 
 📞 (858) 733-1029  
 📧 presenter.simon@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hsienchen/)  
-
-
-
-### 📁 Past UO Works  
-- 🔗 [**DFC Website – Patient Recruitment**](./README-cases.md#dfc-website--patient-recruitment)  
-- 🔗 [**Lunchbag CME – Physician Engagement**](./README-cases.md#lunchbag-cme---physician-engagement)
+🔗 [LinkedIn](https://www.linkedin.com/in/hsienchen/) 
