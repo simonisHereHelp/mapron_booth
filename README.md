@@ -3,9 +3,9 @@
 This project helps Store Associates create effective prompts for use with Magic Apron, and then convert the AI’s output into a Route Map format.
 
 ## Challenges at Store
-- Store Managers want more **sales leads** and **100% LTSA**.
-- Sales Associates lack dedicated **tools**—relying mainly on **soft skills** (GET) and **chancy talks**.
-- Manager workloads are so heavy that little capacity remains for **exploring new ideas**.
+- SMs want more **sales leads** and **100% LTSA**.
+- SAs lack **tools** to deliver; currently relying on **soft skills** (GET) and **chancy talks**.
+- SMs want to change, but are so loaded that no capacity remains for **exploding new**.
 
 
 ![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
