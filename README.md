@@ -5,11 +5,18 @@ This project helps Store Associates create effective prompts for use with Magic 
 ## Challenges at Store
 - SMs want more **sales leads** and **100% LTSA**.
 - SAs lack **tools** to deliver; currently relying on **soft skills** (GET) and **chancy talks**.
+- Even with SA guidance, customers often take on **unplanned paths**, making repeated back-and-forth trips through the store.
 - SMs want to change, but are so loaded that no capacity remains for **exploding new**.
+
+<br>
+<br>
+<br>
+
 
 
 ![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
-
+<br>
+<br>
 ## 1. Store Setting (per the Store Manager's direction)
 - **Key Settings:**  
   1. Store weekly push  
@@ -52,6 +59,9 @@ example **Store_Setting.json**
 
 ```
 
+<br>
+<br>
+
 ## 2. MApron Booth (In-Store, near D31 Cust Services)
 - **Purpose:** In-store station for demos and engagement.  
 - **Features:**  
@@ -65,7 +75,8 @@ Store Associate:
 “Hi there. Want to see how our AI can map out the best solution for your project—right here in the store?”
 
 ```
-
+<br>
+<br>
 
 ## 3. Prompt Wizard
 - **Purpose:** Help Associates create optimized text prompts for Magic Apron.  
@@ -85,7 +96,8 @@ Store Associate:
 **(Optional) Incentive coupon for Booth visitors**
 
 ---
-
+<br>
+<br>
 
 ## 🧩 Associate’s Step-by-Step
 
@@ -107,7 +119,10 @@ Store Associate:
    - Go over the AI-generated solution with the customer.  
    - Print as a **Route Map** and, if available, a **Route Coupon**.
 
-
+<br>
+<br>
+<br>
+<br>
 ## 👤 Simon Chen — User Onboarding (UO) Program Specialist  
 <img src="https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0" width="300" align="right">
 
