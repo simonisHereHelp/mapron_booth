@@ -20,6 +20,10 @@ Entry customer impact – CX journey start, first touchpoint; drives store sales
 Magic Apron, HomeDepot's LLM, opens new ways to resolve these challenges. 
 
 
+```
+The purpose of stack is to create effective prompts for use with Magic Apron, and then convert the AI’s output into a Route Map format.
+```
+
 ![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
 <br>
 <br>
@@ -140,3 +144,12 @@ current: Store Associate, Poway Store 8949
 📞 (858) 733-1029  
 📧 presenter.simon@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hsienchen/) 
+
+<br>
+<br>
+<br>
+📁 Past UO Works
+  
+🔗 [DFC Website – Patient Recruitment](past_UO_cases.md#dfc-website--patient-recruitment)  
+🔗 [Lunch Bag CME – Physician Engagement](past_UO_cases.md#lunch-bag-cme--physician-engagement)
+
