@@ -1,17 +1,22 @@
-# 🛠 Magic Apron TB & Localized Prompt Wizard
+## D31 – Start of Customer Experience Joruney
 
-This project helps Store Associates create effective prompts for use with Magic Apron, and then convert the AI’s output into a Route Map format.
+Entry customer impact – CX journey start, first touchpoint; drives store sales + LTSA.
 
-## Challenges at Store
-- SMs want more **sales leads** and **100% LTSA**.
-- SAs lack **tools** to deliver; currently relying on **soft skills** (GET) and **chancy talks**.
-- Even with SA guidance, customers often take on **unplanned paths**, making repeated back-and-forth trips through the store.
-- SMs want to change, but are so loaded that no capacity remains for **exploding new**.
+**Assoc profile** – Techy, capable of multi-tasking, but need better tools to address below challenges.
+
+## D31 – Current Challenges
+
+**Merch Q&A** – Flex/under-staffing in store → D31 Assoc ofter **sub to answer**, risk of revenue opportuinty loss.
+
+**Path plan** – customers values time; printed route map = efficiency win.
+
+**Up-engagement** – Needs curated sell msg, localized + aimed at high-value prospect for higher conversion,
 
 <br>
-<br>
-<br>
 
+##  Magic Apron TB & Localized Prompt Wizard
+
+Magic Apron, HomeDepot's LLM, opens new ways to resolve these challenges. 
 
 
 ![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
