@@ -10,7 +10,7 @@
 **Focus:** `#Disease Awareness#` & `#AD Registry#`  
 🔗 [DFC Global Reference (2017)](https://www.alzint.org/u/dfc-developments.pdf)
 
-A digital referral and appointment platform supporting the **Dementia Friendly Community (DFC)** initiative and China’s **NGI campaign**.
+A digital referral and appointment platform supporting the **Dementia Friendly Community (DFC)** initiative and China’s **NGO campaign**.
 
 - Integrated with pharma workflows and symbolic wristbands  
 - Over **300,000 registered DFC members**  
@@ -46,11 +46,15 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
 
     -Shift toward **evidence-based medicine** → need for precision messaging
 
-    -**LunchBag** positioned as a cost-effective alternative to Symposium
+    -**LunchBag** positioned as a cost-effective alternative to ,medical symposium
+
+    -In need of an activities Life-Cycle management system
+
+
 
 **Technology constraints**: 
 
-    no iPhones, pre-3G era, limited connectivity (SMS only), no cloud, modem connection to private server
+    before iPhone era, pre 3G mobility, limited connectivity (SMS only), no cloud infrastructure, no streaming video, modem connection to private servers (running Windows NT)
 
 
 **Our Solution--Rep’s Workflow**
