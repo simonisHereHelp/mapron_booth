@@ -17,36 +17,49 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
 - Recognized as a **2017 Best Practice Innovation** under the global DFC initiative
 - Technology platform: WeChat Official Account, WeChat.js API, SMS gateway, Alibaba Cloud ECS & RDS
 
-![alt text](DFC.png)
----
+<br>
+
+    In China, direct-to-patient (D2P) outreach is prohibited, and NGO activities are closely monitored.
 
 ![alt text](Chen%20&%203000%20Wristbands.jpg)
+---
+    To secure approval, we positioned the campaign under the Dementia Friendly Community (DFC) theme.
 
+![alt text](DFC.png)
+
+
+    Eisai, a Japanese company, partner with us for 10 years (2012-2021). During the period, Aircept remained the leading prescription drug for AD and MCI (mild cog impaired) patients in China  
+
+![alt text](Eisai.png)
 
 ## Lunch Bag CME – Physician Engagement
 
 **Clients**: Pfizer China, Roche China, Sanofi-Aventis China
-**Focus**: #Physician Enga# & #Continuing Med Edu# #Saleforce Effec
+
+**Focus**: 
+    #Physician Enga# &  #Continuing Med Edu# 
+    #Saleforce Effec#
 
 ### Customer’s Challenges ###
 
--Scattered target base and large sales force (e.g., Lipitor: 200K target doctors, 1,500 reps)
+    -Scattered target base and large sales force (e.g., Lipitor: 200K target doctors, 1,500 reps)
 
--Shift toward **evidence-based medicine** → need for precision messaging
+    -Shift toward **evidence-based medicine** → need for precision messaging
 
--**LunchBag** positioned as a cost-effective alternative to Symposium
+    -**LunchBag** positioned as a cost-effective alternative to Symposium
 
 **Technology constraints**: 
-no iPhones, pre-3G era, limited connectivity (SMS only), no cloud, modem connection to private server
+
+    no iPhones, pre-3G era, limited connectivity (SMS only), no cloud, modem connection to private server
 
 
 **Our Solution--Rep’s Workflow**
 
--SMS check-in – Rep receives a Meeting ID.
+    -SMS check-in – Rep receives a Meeting ID.
 
--Play Video, and Prompt for Physician's Feedback
+    -Play Video, and Prompt for Physician's Feedback
 
--Physician Send SMS with the Meeting ID.
+    -Physician Send SMS with the Meeting ID.
 
 
 ![alt text](lunchCME.png)
