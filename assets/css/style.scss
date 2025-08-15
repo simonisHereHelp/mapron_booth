@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "{{ site.theme }}";  /* keep base theme */
 
 /* Global type scale */
@@ -18,9 +17,3 @@ h3 { font-size: 1.4rem; }
 .main-content, .markdown-body { font-size: 1.2rem; } /* inherits 20px base */
 .main-content h1, .markdown-body h1 { font-size: 1.8rem; }
 .main-content h2, .markdown-body h2 { font-size: 1.6rem; }
-
-pre {
-  max-width: 600px;  /* set desired width */
-  white-space: pre-wrap; /* allow wrapping instead of horizontal scroll */
-  overflow-x: auto; /* keep horizontal scroll if needed */
-}

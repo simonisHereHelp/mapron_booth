@@ -1,3 +1,15 @@
+<style>
+/* Only affects code blocks you tag with .code-narrow */
+.code-narrow .highlight pre,
+.code-narrow pre {
+  max-width: 680px;        /* set the width you want */
+  white-space: pre-wrap;   /* wrap long lines */
+  word-break: break-word;  /* break long words if needed */
+  overflow-x: hidden;      /* remove the horizontal scrollbar */
+}
+</style>
+
+
 # Past Projects
 
 **Career Focus**  
