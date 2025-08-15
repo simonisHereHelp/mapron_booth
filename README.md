@@ -6,11 +6,12 @@ Entry customer impact – CX journey start, first touchpoint; drives store sales
 
 ## D31 – Current Challenges
 
-**Merch Q&A** – Flex/under-staffing in store → D31 Assoc ofter **sub to answer**, risk of revenue opportuinty loss.
+**Delivering Merch Q&A** – Flex/under-staffing in store → D31 Assoc often **sub to answer**, risk of revenue opportuinty loss if subpar answers.
 
-**Path plan** – customers values time; printed route map = efficiency win.
+**Serving High Value Customers at Trip Start** – Customers seek direction at entry → Longer purchase list, harder to give accurate directions → D31 associates often **under-serve** these high-value shoppers, who would benefit from time-saving aids such as a printed **route map**.
 
-**Up-engagement** – Needs curated sell msg, localized + aimed at high-value prospect for higher conversion,
+
+**Executing Up-Engagement** – SM has rich experience → Coaching takes time → D31 Assoc need tools to tap into that expertise and deliver Up-Engagement with the confidence and skill of a seasoned professional.
 
 <br>
 
