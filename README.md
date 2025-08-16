@@ -9,8 +9,7 @@ Entry customer impact – CX journey start, first touchpoint; drives store sales
 ## D31 – Current Challenges
 
 
-**Fail to Serve High Value Shoppers at Trip Start** – Customers seek direction at entry → Longer purchase list, harder to give accurate directions → D31 associates often **under-serve** these high-value shoppers, who would benefit from time-saving aids such as a printed **route map**.
-
+**Unable to Guide Trip** – Shoppers, especiall those with long purchase lists, want time-saving guidance in store. Today Assoc can only give directions, not a well-planed path plan.
 
 **Cannot Up-Engage Effectively** – Up-Engagement demands experience; While SM has this expertise, D31 Assoc need tools to access it. Up-Engagement at trip start could generate sales, leads, or measurements, all of which are vital to Store Pulse. 
 
@@ -160,3 +159,9 @@ current: Store Associate, Poway Store 8949
 🔗 [DFC Website – Patient Recruitment](past_UO_cases.md#dfc-website--patient-recruitment)  
 🔗 [Lunch Bag CME – Physician Engagement](past_UO_cases.md#lunch-bag-cme--physician-engagement)
 
+
+## Action Items
+
+-Store 8949 Commitment – Ready to trial once the booth is available, per David, the SM. 
+
+-Follow-Up Meetings – Refine scope, design UI/UX, and define eval metrics.
