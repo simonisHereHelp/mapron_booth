@@ -91,9 +91,9 @@ Store Associate:
 <br>
 
 ## 3. Prompt Wizard
-- **Purpose:** Help Associates create optimized text prompts for Magic Apron.  
+- **Purpose:** Help Associates create optimized text prompts for Magic Apron--powered under the hood by reasoning-ready LLM (eg GPT-5)  
 - **Features:**  
-  - Chrome Extension with GenAI tools.  
+  - Chrome Extension.  
   - Uses Store Setting data for local relevance.  
   - Step-by-step project workflow.  
   - Generates prompts ready for Magic Apron.
