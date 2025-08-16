@@ -29,7 +29,27 @@ The purpose of stack is to create effective prompts for use with Magic Apron, an
 ![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
 <br>
 <br>
-## 1. Store Setting (per the Store Manager's direction)
+
+
+## Loc: Entrance, Next to D31
+
+- **Features:**  
+  - Touchscreen Computer with Keyboard
+  - Wi-Fi Guest connection, only!
+  - Local printer (for printing Route Map)
+
+
+## Input: by D31 Assoc
+```
+Assoc: 
+
+“Hi there. Want to see how our AI can map out the best solution for your project—right here in the store?”
+
+```
+<br>
+<br>
+
+## Setting (per the Store Manager's direction)
 - **Key Settings:**  
   1. Store weekly push  
   2. Local building codes  
@@ -74,23 +94,8 @@ example **Store_Setting.json**
 <br>
 <br>
 
-## 2. MApron Booth (In-Store, near D31 Cust Services)
-- **Purpose:** In-store station for demos and engagement.  
-- **Features:**  
-  - Touchscreen Computer with Keyboard, operated by Associate
-  - Wi-Fi Guest connection, only!
-  - Local printer (for printing Route Map)
 
-```
-Store Associate: 
-
-“Hi there. Want to see how our AI can map out the best solution for your project—right here in the store?”
-
-```
-<br>
-<br>
-
-## 3. Prompt Wizard
+## Prompt Wizard
 - **Purpose:** Help Associates create optimized text prompts for Magic Apron--powered under the hood by reasoning-ready LLM (eg GPT-5)  
 - **Features:**  
   - Chrome Extension.  
@@ -98,7 +103,7 @@ Store Associate:
   - Step-by-step project workflow.  
   - Generates prompts ready for Magic Apron.
   
-## 4. Magic Apron Text to Route Map
+## Magic Apron Text to Route Map
   - Captures Magic Apron text output and formats for printing.
 
 **Route Map Examples:**  
