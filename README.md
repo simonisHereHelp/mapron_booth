@@ -145,6 +145,10 @@ example **Store_Setting.json**
 
 -2. **Follow-Up Works** – Refine scope, design UI/UX, and define eval metrics.
 
+-3. **Local Launch** – Local Env, running NodeJS, API access (toekn cost?), a simple pilot
+
+-4. **Collect Insight** – on effective prompting, store perf, customer feedback, and SM+Assoc adoption/in-road
+
 <br>
 <br>
 
