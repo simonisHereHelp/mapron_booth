@@ -138,7 +138,16 @@ example **Store_Setting.json**
 <br>
 <br>
 <br>
+
+## ✅ Action Items
+
+-1. **Store 8949 Commitment** – Ready to trial once the booth is available, per David, the SM. 
+
+-2. **Follow-Up Works** – Refine scope, design UI/UX, and define eval metrics.
+
 <br>
+<br>
+
 ## 👤 Simon Chen — User Onboarding (UO) Program Specialist  
 <img src="https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0" width="300" align="right">
 
@@ -154,14 +163,10 @@ current: Store Associate, Poway Store 8949
 <br>
 <br>
 <br>
-📁 Past UO Works
+
+## 🎯 Past UO Works
 
 🔗 [DFC Website – Patient Recruitment](past_UO_cases.md#dfc-website--patient-recruitment)  
 🔗 [Lunch Bag CME – Physician Engagement](past_UO_cases.md#lunch-bag-cme--physician-engagement)
 
 
-## Action Items
-
--Store 8949 Commitment – Ready to trial once the booth is available, per David, the SM. 
-
--Follow-Up Meetings – Refine scope, design UI/UX, and define eval metrics.
