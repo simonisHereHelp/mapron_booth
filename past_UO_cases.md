@@ -48,7 +48,7 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
 
 ## Lunch Bag CME – Physician Engagement
 
-**Clients**: Pfizer China, Roche China, Sanofi-Aventis China
+**Clients**: Pfizer, Roche, Merk (aka MSD), Novartis, and almost all Big Pharmas in China
 
 **Focus**: 
     #Physician Enga# &  #Continuing Med Edu# 
@@ -71,7 +71,7 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
     before iPhone era, pre 3G mobility, limited connectivity (SMS only), no cloud infrastructure, no streaming video, modem connection to private servers (running Windows NT)
 
 
-**Our Solution--Rep’s Workflow**
+**Our Solution--Rep’s Workflow** (easy to operate)
 
     -SMS check-in – Rep receives a Meeting ID.
 
@@ -79,13 +79,29 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
 
     -Physician Send SMS with the Meeting ID.
 
+![alt text](LunchBag.jpg)
 
-![alt text](lunchCME.png)
+
+## Stack Overview
+
+**Laptop (Rep in the Field)**
 ```
-Activities officially accredited by China’
+Auto-start via .bat from CD/DVD
+Simple media control interface
+Windows Media Player SDK + Visual Basic
+Video timeline synced with JPG slide prompts
 ```
 
-The project received rave reviews from Big Pharmas. 
+**NT Server**
+
+```
+Multiple COM ports, each with a connected modem
+Lightweight storage in Access or MySQL for incoming SMS
+Auto-export to Excel for client reports
+```
+
+
+The project received rave reviews from Big Pharmas. Simple and robust overall. Scaled to heavy use over long period, with very few downtime and minimal IT support.
 
 ### Pfizer ###
  continued to place order from 2008 through 2010.
