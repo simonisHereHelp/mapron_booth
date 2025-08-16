@@ -9,12 +9,12 @@ Entry customer impact – CX journey start, first touchpoint; drives store sales
 ## D31 – Current Challenges
 
 
-**Serving High Value Shoppers at Trip Start** – Customers seek direction at entry → Longer purchase list, harder to give accurate directions → D31 associates often **under-serve** these high-value shoppers, who would benefit from time-saving aids such as a printed **route map**.
+**Fail to Serve High Value Shoppers at Trip Start** – Customers seek direction at entry → Longer purchase list, harder to give accurate directions → D31 associates often **under-serve** these high-value shoppers, who would benefit from time-saving aids such as a printed **route map**.
 
 
-**Executing Up-Engagement** – SM has rich experience → Coaching takes time → D31 Assoc need tools to tap into that expertise and deliver Up-Engagement with the confidence and skill of a seasoned professional.
+**Cannot Up-Engage Effectively** – Up-Engagement demands experience; While SM has this expertise, D31 Assoc need tools to access it. Up-Engagement at trip start could generate sales, leads, or measurements, all of which are vital to Store Pulse. 
 
-**Delivering Merch Q&A** – Flex/under-staffing in store → D31 Assoc often **sub to answer**, risk of revenue opportuinty loss if subpar answers.
+**Unable to Handle Merch Q&A** – Flex/under-staffing in store → D31 Assoc are often **subbed in to answer**, risk of revenue opportuinty loss when incomplete or subpar responses.
 <br>
 
 ##  Magic Apron TB & Localized Prompt Wizard
