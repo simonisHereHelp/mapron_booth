@@ -79,7 +79,7 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
 
     -Physician Send SMS with the Meeting ID.
 
-![alt text](LunchBag.jpg)
+![alt text](CD_cover.jpg)
 
 
 ## Stack Overview
