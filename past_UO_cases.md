@@ -24,9 +24,9 @@
 **Focus:** `#Disease Awareness#` & `#AD Registry#`  
 🔗 [DFC Global Reference (2017)](https://www.alzint.org/u/dfc-developments.pdf)
 
-A digital referral and appointment platform supporting the **Dementia Friendly Community (DFC)** initiative and China’s **NGO campaign**.
+An AD prevention-awareness campaign and a NGO referral platform supporting the **Dementia Friendly Community (DFC)** initiative.
 
-- Integrated with pharma workflows and symbolic wristbands  
+- Essential to the program: QR coded wristbands  
 - Over **300,000 registered DFC members**  
 - Recognized as a **2017 Best Practice Innovation** under the global DFC initiative
 - Technology platform: WeChat Official Account, WeChat.js API, SMS gateway, Alibaba Cloud ECS & RDS
@@ -48,7 +48,7 @@ A digital referral and appointment platform supporting the **Dementia Friendly C
 
 ## Lunch Bag CME – Physician Engagement
 
-**Clients**: Pfizer, Roche, Merk (aka MSD), Novartis, and almost all Big Pharmas in China
+**Clients**: Pfizer, Roche, GSK, Merk (aka MSD), Novartis, and almost all Big Pharmas in China
 
 **Focus**: 
     #Physician Enga# &  #Continuing Med Edu# 
