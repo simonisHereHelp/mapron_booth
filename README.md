@@ -1,24 +1,23 @@
-# Magic Apron TB
+## What Store 8949 Needs
 
-## D31 – Start of Customer Experience Joruney
+**More Impactful Interaction on Floor**
+  - Every month, Assocs spend total 2,000+ hrs on floor service.
+  - Current GET method = loose, unstructured.
+  - Need new tool → enable Assocs to deliver **precise, high-impact** messages.
 
-Entry customer impact – CX journey start, first touchpoint; drives store sales + LTSA.
+**Localized and Generative**
 
-**Assoc profile** – Techy, capable of multi-tasking, but need better tools to address below challenges.
+  - Tool must be **local + generative**, able to craft messages that matter locally.
+  - Trial Path: build traction with consumers, SM **captured insights**, then extend to Pro.
 
-## D31 – Current Challenges
-
-
-**Unable to Guide Trip** – Shoppers, especiall those with long purchase lists, want time-saving guidance in store. Today Assoc can only give directions, not a well-planed path plan.
-
-**Cannot Up-Engage Effectively** – Up-Engagement demands experience; While SM has this expertise, D31 Assoc need tools to access it. Up-Engagement at trip start could generate sales, leads, or measurements, all of which are vital to Store Pulse. 
-
-**Unable to Handle Merch Q&A** – Flex/under-staffing in store → D31 Assoc are often **subbed in to answer**, risk of revenue opportuinty loss when incomplete or subpar responses.
+**Migrating to Pro**
+  - **User Onboarding**: Hand on hand with selective Pro's
+  - Buidling traction: continous support and workshops 
 <br>
 
 ##  Magic Apron TB & Localized Prompt Wizard
 
-Magic Apron, HomeDepot's LLM, opens new ways to resolve these challenges. 
+Magic Apron, HomeDepot's LLM, opens new paths to address above needs. 
 
 
 ```
