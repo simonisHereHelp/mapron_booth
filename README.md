@@ -10,7 +10,7 @@
   - Tool must be **local + generative**, able to craft messages that matter locally.
   - Trial Path: build traction with consumers, SM **captured insights**, then take a glimpse of the extended path to Pro.
 
-**A Glimpse ot Pro UO Program**
+**A Glimpse at Pro UO Program**
   - **UO program**: User Onboarding program tailored for Pros
   - **traction & P/L Impact**: sustain traction and measure impact of profit/loss.
 <br>
