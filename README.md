@@ -8,11 +8,11 @@
 **Localized and Generative**
 
   - Tool must be **local + generative**, able to craft messages that matter locally.
-  - Trial Path: build traction with consumers, SM **captured insights**, then extend to Pro.
+  - Trial Path: build traction with consumers, SM **captured insights**, then take a glimpse of the extended path to Pro.
 
-**Migrating to Pro**
-  - **User Onboarding**: Hand on hand with selective Pro's
-  - Buidling traction: continous support and workshops 
+**A Glimpse ot Pro UO Program**
+  - **UO program**: User Onboarding program tailored for Pros
+  - **traction & P/L Impact**: sustain traction and measure impact of profit/loss.
 <br>
 
 ##  Magic Apron TB & Localized Prompt Wizard
