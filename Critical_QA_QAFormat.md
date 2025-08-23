@@ -10,13 +10,15 @@
 - **Associate ownership:** Day-to-day, this is associate-manageable. It’s no more complicated than running a printer or kiosk that we already maintain. If something goes wrong, associates can restart it without waiting on IT.  
 - **Pilot-first approach:** We’re not rolling this out chain-wide from day one. The pilot is just at Store 8949, with Store Manager approval, so we can measure reliability in real conditions and solve issues before scaling.  
 
+---
 
-**Q2: Route Maps require access to inventory logs, which associates don’t have. How will that work?**  
+**Q2: For the booth to work, it needs API access to store inventory tables and to Magic Apron. Both are not available. How will that play out?**  
 
 **A:**  
-- **No live integration needed:** For the pilot, we don’t need to touch enterprise systems. Instead, we can manually download weekly stock tables or SKU push lists.  
-- **Lightweight solution:** Using tools like `pandas.read_csv()` in Python or `fs/promises` in NodeJS, we can load those tables into the Route Map generator.  
-- **Proof of concept:** This still shows how Route Maps tie directly to real SKUs, without waiting on enterprise database access.  
+- **Inventory access:** For the pilot, no live API is required. Weekly stock tables or SKU push lists can be manually downloaded and accessed locally. Using libraries like `pandas.read_csv()` in Python or `fs/promises` in NodeJS, these can be easily loaded into the Route Map generator.  
+- **Magic Apron access:** For interaction with Magic Apron, we’ll use a simple **Chrome + copy-paste workflow**. Associates will copy prompts from the Wizard into Magic Apron and paste back results into the Route Map generator.  
+- **Pilot scope:** Since this is just a pilot, there’s no need for deeper integration. The focus is proving the customer engagement model, not full enterprise deployment.  
+
 
 ---
 
