@@ -1,27 +1,31 @@
-## What Store 8949 Needs
+## Store 8949 Needs
 
-**More Impactful Interaction on Floor**
-  - Every month, Assocs spend total 2,000+ hrs on floor service.
+**1. to provide Assoc with better Message tools**
+
+  - Every month, Assocs spend 2,000+ hrs on floor service.
+
   - Current GET method = loose, unstructured.
-  - Need new tool → enable Assocs to deliver **precise, high-impact** messages.
 
-**Localized and Generative**
+  - Need new tools → enable Assocs to deliver precise, high-impact messages, used together with GET practice.
 
-  - Tool must be **local + generative**, able to craft messages that matter locally.
-  - Trial Path: build traction with consumers, SM **captured insights**, then take a glimpse of the extended path to Pro.
+**2. to build Assoc's trust in AI at work**
 
-**A Glimpse at Pro UO Program**
-  - **UO program**: User Onboarding program tailored for Pros
-  - **traction & P/L Impact**: sustain traction and measure impact of profit/loss.
-<br>
+  - Many Assocs feel anxious about AI's role in the workplace.
+
+  - Must show that AI is here to support their work, not replace it.
+
+**3. to pave the way for Pro Accounts UO Program**
+
+  - Pros can get real value from AI, but adoption’s been slow.
+
+  - *User Onboarding* efforts (*workshops, free API access*) can build traction with Pros,and once it’s built, ensure HD’s leading edge in the long run.
 
 ##  Magic Apron TB & Localized Prompt Wizard
 
-Magic Apron, HomeDepot's LLM, opens new paths to address above needs. 
-
+Magic Apron, HomeDepot's LLM, opens up new possiblities...
 
 ```
-The purpose of stack is to create effective prompts for use with Magic Apron, and then convert the AI’s output into a Route Map format.
+Core to this proposal is to create effective prompts for use with Magic Apron, and then convert the AI’s output into a Route Map format.
 ```
 
 ![MApron Booth & Prompt Wizard](schematic_line_drawing.png)
