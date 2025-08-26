@@ -11,16 +11,22 @@
 
 
 # Past Projects
-
-**Career Focus**  
-- Physician Engagement (incl. CME)  
-- Patient Awareness  
-- Sales Rep Coaching (SFE)
-
 ---
+## WebCam-based Certification APP – Microscopic Assembly Proficiency
+
+**Client**: *Provisio Medical*, Rancho Bernardo, California
+
+**Keywords**: *ISO-13485 SOP*, *Operator Certification* , *Catheter Assembly*
+
+**Platforms**: *AmScope* Microscope Adapter, NodeJS + Docusaurus frontend stack, Vercel Cloud
+
+**Result:** A digital platform that provides objective evidence of SOP compliance, reduces training time, and strengthens regulatory alignment.
+
+![alt text](Provisio_Medical.png)
+
 
 ## DFC Website – Patient Recruitment  
-**Client:** Eisai Pharma  
+**Client:** Eisai Pharma, Shanghai, China  
 **Focus:** `#Disease Awareness#` & `#AD Registry#`  
 🔗 [DFC Global Reference (2017)](https://www.alzint.org/u/dfc-developments.pdf)
 

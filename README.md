@@ -175,7 +175,7 @@ current: Store Associate, Poway Store 8949
 
 ## 🎯 Past UO Works
 
-🔗 [DFC Website – Patient Recruitment](past_UO_cases.md#dfc-website--patient-recruitment)  
-🔗 [Lunch Bag CME – Physician Engagement](past_UO_cases.md#lunch-bag-cme--physician-engagement)
+🔗 [client projects](past_UO_cases)  
+
 
 
