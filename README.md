@@ -14,6 +14,8 @@
 
   - Must show that AI is here to support their work, not replace it.
 
+  - To build trust, program should be driven by *SMs and Assocs*, not just the Corporate.
+
 **3. to pave the way for Pro Accounts UO Program**
 
   - Pros can get real value from AI, but adoption’s been slow.
