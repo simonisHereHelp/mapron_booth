@@ -97,23 +97,35 @@ example **Store_Setting.json**
 <br>
 <br>
 
+(below are mockup, I put them here for discussion)
 
-## Prompt Wizard
-- **Purpose:** Help Associates create optimized text prompts for Magic Apron--powered under the hood by reasoning-ready LLM (eg GPT-5)  
-- **Features:**  
-  - Chrome Extension.  
-  - Uses Store Setting data for local relevance.  
-  - Step-by-step project workflow.  
-  - Generates prompts ready for Magic Apron.
-  
-## Magic Apron Text to Route Map
-  - Captures Magic Apron text output and formats for printing.
+## Wizard Input ##
+
+  - Support Assocs in creating optimized text prompts for Magic Apron—powered by a reasoning-ready LLM (e.g., GPT-5).
+
+  - Chrome Extension or API access ?
+
+  - Step-by-step user workflow.
+
+
+## Response Justification ##
+
+  - Captures Magic Apron’s text output.
+
+  - Pulls context from store.json to explain the “why” behind recommendations and provide justifications.
+
+## Shelf_Loc + Route Map ##
+
+  - Pull from store inventory list with shelf_loc information (aisle + bay locations).
+
+  - Organizes results into a logical route plan.
+
+  - Formats per below examples.
 
 **Route Map Examples:**  
 - [Example 1: Fence Replacement](RouteMap_FenceReplace.md)  
 - [Example 2: Deck New Build](RouteMap_DeckBuild.md)
 
-**(Optional) Incentive coupon for Booth visitors**
 
 ---
 <br>
@@ -150,9 +162,9 @@ example **Store_Setting.json**
 |--------------------------------|------|--------------------------|-------------------------------|---------------|
 | Program SOW w/ Eval Metrics    | Prep | --                       | Provide a comprehensive plan  | 2–3 weeks     |
 | Hardware (PC, printer, stand)  | Prep | --                       | Yes (will seek Regional support) | 1 week        |
-| Input Wizard                   | Dev  | Architecture + code works| UI & user workflow            | 2 weeks       |
-| Chrome Extension               | Dev  | Architecture + code works| Test + Local install          | 2 weeks       |
-| RouteMap Module                | Dev  | Architecture + code works| Output format                 | 2 weeks       |
+| Wizard Input Module                  | Dev  | Architecture + code works| UI & user workflow            | 2 weeks       |
+| Resp_Justification Module              | Dev  | Architecture + code works| Test + Local install          | 2 weeks       |
+| Shelf_Loc + RouteMap Module                | Dev  | Architecture + code works| Output format                 | 2 weeks       |
 | Pilot Run                      | Depl | --                       | Run + gather feedback         | 4 months      |
 
 
