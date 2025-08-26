@@ -97,7 +97,7 @@ example **Store_Setting.json**
 <br>
 <br>
 
-(below are mockup, I put them here for discussion)
+*(mockup for discussion, to save time in this first meeting)*
 
 ## Wizard Input ##
 
@@ -127,45 +127,19 @@ example **Store_Setting.json**
 - [Example 2: Deck New Build](RouteMap_DeckBuild.md)
 
 
----
-<br>
-<br>
-
-## 🧩 Associate’s Step-by-Step
-
-1. **Pick from List**  
-   - Scope: [Build New], [Replacement], or [Renovation]*.  
-   - Category: *Appliances*, *Windows & Doors*, *Flooring*, *Plumbing*, *Garden*, *Patio*, or *Other*.  
-
-2. **Measure** *(refer to Pocket Guide)*  
-   - Enter dimensions, quantities, and critical size constraints.  
-
-3. **Additional Text Input**  
-   - Identify current structures, materials, or installations to keep, remove, or upgrade.  
-   - Note any items that can be reused.  
-
-4. **Copy Prompt**    
-   - Copy the generated text into Magic Apron for results.  
-
-5. **Review & Print**  
-   - Go over the AI-generated solution with the customer.  
-   - Print as a **Route Map** and, if available, a **Route Coupon**.
-
-<br>
-<br>
-<br>
 
 ## 📝 Suggested Actions & Draft Deliverables  
-*(mockup for discussion, to save time in first meeting)*
+*(mockup for discussion, to save time in this first meeting)*
 
-| Action Item                   | Type | by Corp                  | by Store 8949                 | Work Schedule |
-|--------------------------------|------|--------------------------|-------------------------------|---------------|
-| Program SOW w/ Eval Metrics    | Prep | --                       | Provide a comprehensive plan  | 2–3 weeks     |
-| Hardware (PC, printer, stand)  | Prep | --                       | Yes (will seek Regional support) | 1 week        |
-| Wizard Input Module                  | Dev  | Architecture + code works| UI & user workflow            | 2 weeks       |
-| Resp_Justification Module              | Dev  | Architecture + code works| Test + Local install          | 2 weeks       |
-| Shelf_Loc + RouteMap Module                | Dev  | Architecture + code works| Output format                 | 2 weeks       |
-| Pilot Run                      | Depl | --                       | Run + gather feedback         | 4 months      |
+| Action Item                   | Stage | filled by Corp                  | filled by Store 8949                 | Work Schedule |
+|--------------------------------|-------|---------------------------------|--------------------------------------|---------------|
+| Program SOW w/ Eval Metrics    | Prep  | --                              | Provide a comprehensive plan         | 2–3 weeks     |
+| Secure Project Budget          | Prep  | - yes ?-                             | --                                  | N/A           |
+| Hardware (PC, printer, stand)  | Prep  | --                              | Yes (will seek Regional support)     | 1 week        |
+| Wizard Input Module            | Dev   | Architecture + code works       | Design UI & user workflow            | 2 weeks       |
+| Resp_Justification Module      | Dev   | Architecture + code works       | Test + Local install                 | 2 weeks       |
+| Shelf_Loc + RouteMap Module    | Dev   | Architecture + code works       | Output format                        | 2 weeks       |
+| Pilot Run                      | Depl  | --                              | Run + gather feedback                | 4 months      |
 
 
 <br>
