@@ -134,7 +134,7 @@ example **Store_Setting.json**
 | Action Item                   | Stage | filled by Corp                  | filled by Store 8949                 | Work Schedule |
 |--------------------------------|-------|---------------------------------|--------------------------------------|---------------|
 | Program SOW w/ Eval Metrics    | Prep  | --                              | Provide a comprehensive plan         | 2–3 weeks     |
-| Secure Project Budget          | Prep  | - yes ?-                             | --                                  | N/A           |
+| Secure Budget Approval for this Pilot          | Prep  | - yes ?-                             | --                                  | N/A           |
 | Hardware (PC, printer, stand)  | Prep  | --                              | Yes (will seek Regional support)     | 1 week        |
 | Wizard Input Module            | Dev   | Architecture + code works       | Design UI & user workflow            | 2 weeks       |
 | Resp_Justification Module      | Dev   | Architecture + code works       | Test + Local install                 | 2 weeks       |
