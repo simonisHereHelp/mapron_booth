@@ -143,16 +143,17 @@ example **Store_Setting.json**
 <br>
 <br>
 
-## ✅ Actions & Deliverables
+## 📝 Suggested Actions & Draft Deliverables  
+*(mockup for discussion, to save time in first meeting)*
 
-| Action Item                | Type | by Corp | by Store 80949 | Work Schedule               |
-|-----------------------------|------|------|-------|-----------------------------|
-| Program SOW w/ Eval Metrics               | Prep | --   | Provide a comprehensive plan | 2-3 weeks |
-| Hardware (PC, printer, stand) | Prep | --   | Yes (will seek Regional support) | 1 week |
-| Input Wizard               | Dev  | Architecture + code works | UI & user workflow | 2 weeks |
-| Chrome Extension           | Dev  | Architecture + code works | Test + Local install | 2 weeks |
-| RouteMap Module            | Dev  | Architecture + code works | Output format | 2 weeks |
-| Pilot Run                  | Depl | --   | Run + gather feedback | 4 months |
+| Action Item                   | Type | by Corp                  | by Store 8949                 | Work Schedule |
+|--------------------------------|------|--------------------------|-------------------------------|---------------|
+| Program SOW w/ Eval Metrics    | Prep | --                       | Provide a comprehensive plan  | 2–3 weeks     |
+| Hardware (PC, printer, stand)  | Prep | --                       | Yes (will seek Regional support) | 1 week        |
+| Input Wizard                   | Dev  | Architecture + code works| UI & user workflow            | 2 weeks       |
+| Chrome Extension               | Dev  | Architecture + code works| Test + Local install          | 2 weeks       |
+| RouteMap Module                | Dev  | Architecture + code works| Output format                 | 2 weeks       |
+| Pilot Run                      | Depl | --                       | Run + gather feedback         | 4 months      |
 
 
 <br>
