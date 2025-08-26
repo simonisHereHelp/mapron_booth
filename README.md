@@ -36,10 +36,9 @@ Core to this proposal is to create effective prompts for use with Magic Apron, a
 
 
 ## Loc: Entrance, Next to D31
-
+- start of customer experience trip in the store, operated by Assoc
 - **Features:**  
-  - Touchscreen Computer with Keyboard
-  - Wi-Fi Guest connection, only!
+  - Touchscreen + Keyboard + WiFi Guest
   - Local printer (for printing Route Map)
 
 
@@ -144,15 +143,17 @@ example **Store_Setting.json**
 <br>
 <br>
 
-## ✅ Action Items
+## ✅ Actions & Deliverables
 
--1. **Store 8949 Commitment** – Ready to trial once the booth is available, per David, the SM. 
+| Action Item                | Type | by Corp | by Store 80949 | Work Schedule               |
+|-----------------------------|------|------|-------|-----------------------------|
+| Program SOW w/ Eval Metrics               | Prep | --   | Provide a comprehensive plan | 2-3 weeks |
+| Hardware (PC, printer, stand) | Prep | --   | Yes (will seek Regional support) | 1 week |
+| Input Wizard               | Dev  | Architecture + code works | UI & user workflow | 2 weeks |
+| Chrome Extension           | Dev  | Architecture + code works | Test + Local install | 2 weeks |
+| RouteMap Module            | Dev  | Architecture + code works | Output format | 2 weeks |
+| Pilot Run                  | Depl | --   | Run + gather feedback | 4 months |
 
--2. **Follow-Up Works** – Refine scope, design UI/UX, and define eval metrics.
-
--3. **Local Launch** – Local Env, running NodeJS, API access (toekn cost?), a simple pilot
-
--4. **Collect Insight** – on effective prompting, store perf, customer feedback, and SM+Assoc adoption/in-road
 
 <br>
 <br>
