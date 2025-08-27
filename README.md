@@ -171,7 +171,7 @@ current: Store Associate, Poway Store 8949
 
 ## 🎯 Past UO Works
 
-🔗 [client projects](past_UO_cases)  
+🔗 [client projects](past_UO_cases.md)  
 
 
 
