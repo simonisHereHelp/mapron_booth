@@ -1,3 +1,5 @@
+# Magic Apron Booth Trial in Store 8949
+
 ## Store 8949 Needs
 
 **1. to provide Assoc with better Message tools**
@@ -21,6 +23,12 @@
   - Pros can get real value from AI, but adoption’s been slow.
 
   - *User Onboarding* efforts (*workshops, free API access*) can build traction with Pros,and once it’s built, ensure HD’s leading edge in the long run.
+
+**4. to receive budgetary support for this new trial**
+  - the trial benefits both Store and Corporate; and Corporate should cover the cost.
+  - Bulk of the budget relates to PM's bill time, per *Action and Deliverables* table (see below).
+
+
 
 ##  Magic Apron TB & Localized Prompt Wizard
 
@@ -128,13 +136,12 @@ example **Store_Setting.json**
 
 
 
-## 📝 Suggested Actions & Draft Deliverables  
+## 📝 Action and Deliverables 
 *(mockup for discussion, to save time in this first meeting)*
 
 | Action Item                   | Stage | filled by Corp                  | filled by Store 8949                 | Work Schedule |
 |--------------------------------|-------|---------------------------------|--------------------------------------|---------------|
 | Program SOW w/ Eval Metrics    | Prep  | --                              | Provide a comprehensive plan         | 2–3 weeks     |
-| Secure Budget Approval for this Pilot          | Prep  | - yes ?-                             | --                                  | N/A           |
 | Hardware (PC, printer, stand)  | Prep  | --                              | Yes (will seek Regional support)     | 1 week        |
 | Wizard Input Module            | Dev   | Architecture + code works       | Design UI & user workflow            | 2 weeks       |
 | Resp_Justification Module      | Dev   | Architecture + code works       | Test + Local install                 | 2 weeks       |
