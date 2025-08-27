@@ -48,6 +48,7 @@ Core to this proposal is to create effective prompts for use with Magic Apron, a
 - **Features:**  
   - Touchscreen + Keyboard + WiFi Guest
   - Local printer (for printing Route Map)
+  - Pilot stage: codes and .env in local, physical lockup when not in use, subject to remote lockup too
 
 
 ## Input: by D31 Assoc
