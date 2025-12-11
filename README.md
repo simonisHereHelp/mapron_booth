@@ -45,7 +45,7 @@ Assoc:
 <br>
 <br>
 
-## Setting (per the Store Manager's direction)
+## Store.json
 - **Key Settings:**  
   1. Store weekly push  
   2. Local building codes  
