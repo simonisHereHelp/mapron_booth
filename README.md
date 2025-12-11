@@ -10,11 +10,9 @@
 
 **2. to prep Assoc for future workplace AI deploy**
 
-  - Many Assocs feel anxious about AI's role in the workplace.
+  - Alleviate anxiety, foster positivity.
 
-  - Must show that AI is here to support their work, not replace it.
-
-  - To build trust, program should be driven by *SMs and Assocs*, not just the Corporate.
+  - Empower SM and Assoc to "tweak" AI output.
 
 ##  Magic Apron TB & Localized Prompt Wizard
 
