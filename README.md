@@ -4,11 +4,9 @@
 
 **1. to provide Assoc with better Message tools**
 
-  - Every month, Assocs spend 2,000+ hrs on floor service.
-
   - Current GET method = loose, unstructured.
 
-  - Need new tools → enable Assocs to deliver precise, high-impact messages, used together with GET practice.
+  - Need better tools → enable Assocs to deliver precise, high-impact messages, used together with GET practice.
 
 **2. to prep Assoc for future workplace AI deploy**
 
@@ -17,7 +15,6 @@
   - Must show that AI is here to support their work, not replace it.
 
   - To build trust, program should be driven by *SMs and Assocs*, not just the Corporate.
-
 
 ##  Magic Apron TB & Localized Prompt Wizard
 
