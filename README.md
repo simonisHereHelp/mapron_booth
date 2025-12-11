@@ -94,20 +94,14 @@ example **Store_Setting.json**
 
 *(mockup for discussion, to save time in this first meeting)*
 
-## Wizard Input ##
+## Project Success Matrix ##
 
-  - Support Assocs in creating optimized text prompts for Magic Apron—powered by a reasoning-ready LLM (e.g., GPT-5).
+  - Booth visit counts
 
-  - Chrome Extension or API access ?
+  - Counts of SKUs on the final Route map
+  
+  - Progress of store.json quality (as assessed with general LLMs)
 
-  - Step-by-step user workflow.
-
-
-## Response Justification ##
-
-  - Captures Magic Apron’s text output.
-
-  - Pulls context from store.json to explain the “why” behind recommendations and provide justifications.
 
 ## Shelf_Loc + Route Map ##
 
