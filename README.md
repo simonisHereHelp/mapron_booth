@@ -1,4 +1,4 @@
-# Magic Apron Booth Trial in Store 8949
+# Magic Apron Booth @8949
 
 ## Store 8949 Needs
 
@@ -14,7 +14,7 @@
 
   - Empower SM and Assoc to "tweak" AI output.
 
-##  Magic Apron TB & Localized Prompt Wizard
+##  Magic Apron Booth
 
 Magic Apron, HomeDepot's LLM, opens up new possiblities...
 
@@ -27,7 +27,7 @@ Core to this proposal is to create effective prompts for use with Magic Apron, a
 <br>
 
 
-## Loc: Entrance, Next to D31
+## Booth Loc: Entrance, Next to D31
 - start of customer experience trip in the store, operated by Assoc
 - **Features:**  
   - Touchscreen + Keyboard + WiFi Guest
@@ -35,7 +35,7 @@ Core to this proposal is to create effective prompts for use with Magic Apron, a
   - Pilot stage: codes and .env in local, physical lockup when not in use, subject to remote lockup too
 
 
-## Input: by D31 Assoc
+## Booth: operated by D31 Assoc
 ```
 Assoc: 
 
@@ -101,7 +101,7 @@ example **Store_Setting.json**
   - Progress of store.json quality (as assessed with general LLMs)
 
 
-## Shelf_Loc + Route Map ##
+## Booth Output: Route Map ##
 
   - Pull from store inventory list with shelf_loc information (aisle + bay locations).
 
