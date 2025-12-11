@@ -10,24 +10,13 @@
 
   - Need new tools → enable Assocs to deliver precise, high-impact messages, used together with GET practice.
 
-**2. to build Assoc's trust in AI at work**
+**2. to prep Assoc for future workplace AI deploy**
 
   - Many Assocs feel anxious about AI's role in the workplace.
 
   - Must show that AI is here to support their work, not replace it.
 
   - To build trust, program should be driven by *SMs and Assocs*, not just the Corporate.
-
-**3. to pave the way for Pro Accounts UO Program**
-
-  - Pros can get real value from AI, but adoption’s been slow.
-
-  - *User Onboarding* efforts (*workshops, free API access*) can build traction with Pros,and once it’s built, ensure HD’s leading edge in the long run.
-
-**4. to receive budgetary support for this new trial**
-  - the trial benefits both Store and Corporate; and Corporate should cover the cost.
-  - Bulk of the budget relates to PM's bill time, per *Action and Deliverables* table (see below).
-
 
 
 ##  Magic Apron TB & Localized Prompt Wizard
