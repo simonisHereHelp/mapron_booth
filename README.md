@@ -113,21 +113,6 @@ example **Store_Setting.json**
 - [Example 1: Fence Replacement](RouteMap_FenceReplace.md)  
 - [Example 2: Deck New Build](RouteMap_DeckBuild.md)
 
-
-
-## 📝 Action and Deliverables 
-*(mockup for discussion, to save time in this first meeting)*
-
-| Action Item                   | Stage | filled by Corp                  | filled by Store 8949                 | Work Schedule |
-|--------------------------------|-------|---------------------------------|--------------------------------------|---------------|
-| Program SOW w/ Eval Metrics    | Prep  | --                              | Provide a comprehensive plan         | 2–3 weeks     |
-| Hardware (PC, printer, stand)  | Prep  | --                              | Yes (will seek Regional support)     | 1 week        |
-| Wizard Input Module            | Dev   | Architecture + code works       | Design UI & user workflow            | 2 weeks       |
-| Resp_Justification Module      | Dev   | Architecture + code works       | Test + Local install                 | 2 weeks       |
-| Shelf_Loc + RouteMap Module    | Dev   | Architecture + code works       | Output format                        | 2 weeks       |
-| Pilot Run                      | Depl  | --                              | Run + gather feedback                | 4 months      |
-
-
 <br>
 <br>
 
